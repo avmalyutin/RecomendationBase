@@ -16,14 +16,15 @@ Some pictures below:
 
 Credits
 ----------------------------------
-Oleksandr Malyutin -- all Spring and Hibernate stuff
-(link to facebook coming soon)
-Sofia Kalinina and Oleksey Odinochenko -- all database stuff
-(link to facebook coming soon)
-Oleksei Ermakov -- design
-(link to facebook coming soon)
-Nikita Malik -- Scrum master. Currently working on project.
-(link to facebook coming soon)
+- Oleksandr Malyutin -- all Spring and Hibernate stuff
+[a LinkedIn](http://ua.linkedin.com/pub/oleksandr-malyutin/88/19/a41)
+- Sofia Kalinina and Oleksey Odinochenko -- all database stuff
+[a LinkedIn](http://ua.linkedin.com/pub/sofia-kalinina/55/b9/182)
+[a LinkedIn](https://www.linkedin.com/pub/odynochenko-aleksey/61/bb4/457)
+- Oleksei Ermakov -- design
+[a LinkedIn](http://ua.linkedin.com/pub/alexey-iermakov/3a/2b8/296)
+- Nikita Malik -- Scrum master. Currently working on project.
+[a LinkedIn](https://www.linkedin.com/in/nvmalik)
 
 What's next?
 =====================================
