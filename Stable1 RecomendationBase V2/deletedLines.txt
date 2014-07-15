@@ -1,0 +1,4 @@
+
+		<mapping class="net.schastny.contactmanager.domain.Author" />
+		<mapping class="net.schastny.contactmanager.domain.SoftwareType" />
+		<mapping class="net.schastny.contactmanager.domain.DevelopmentStage" />
