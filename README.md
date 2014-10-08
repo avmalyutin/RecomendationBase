@@ -10,8 +10,11 @@ To run the project, you need Spring Tool Suite ans Oracle Database. First, impor
 
 Some pictures below:
 ----------------------------------
-(coming soon)
 
+>![111](https://cloud.githubusercontent.com/assets/8103060/4562309/7c9fc068-4f03-11e4-9e3c-550f21841db5.jpg)
+>![112](https://cloud.githubusercontent.com/assets/8103060/4562311/7cbd3e40-4f03-11e4-9411-8341c27a578e.jpg)
+>![113](https://cloud.githubusercontent.com/assets/8103060/4562310/7cbab652-4f03-11e4-8db5-ee4f6b4c0d39.jpg)
+>![114](https://cloud.githubusercontent.com/assets/8103060/4562312/7cc042f2-4f03-11e4-9959-4893801a40a3.jpg)
 
 
 Credits
